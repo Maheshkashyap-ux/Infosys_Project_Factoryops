@@ -1,0 +1,13 @@
+.venv/
+.venv_corrupt_*/
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*.log
+*.db-journal
+*.db-shm
+*.db-wal
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.DS_Store
